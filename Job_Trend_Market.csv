@@ -1,0 +1,101 @@
+Job_id,Industry,Job_Role,Region,City,Employment_Status,Industry_Demand,Min_Salary,Max_Salary,Growth_Rate(1-10),Skill_Rate(1-5),Availability,Joining_Date,Experience(in Year)
+1,Technology,Engineer,South,Bangalore,Full-time,High Demand,45000,90000,9,4.5,High,01-02-2016,9
+2,Healthcare,Nursing,West,Mumbai,Internship,Moderate,30000,60000,7.5,4,Low,08-03-2019,6
+3,Finance,Fintech Analyst,North,Gurugram,Full-time,High Demand,40000,85000,8,4.2,High,13-04-2016,9
+4,Education,Online Educator,North,Delhi,Contract,Stable Growth,25000,50000,6.5,3.8,Medium,19-05-2016,9
+5,Manufacturing,Robotics Technician,West,Pune,Full-time,Moderate,35000,75000,7,4.1,Medium,24-06-2019,6
+6,Retail,E-commerce Manager,South,Chennai,Part-time,High Demand,30000,75000,,4,High,30-07-2019,6
+7,Energy,Renewable Energy Engineer,South,Hyderabad,Full-time,Emerging,50000,95000,8.5,4.6,Low,04-09-2020,5
+8,Finance,Financial Analyst,West,Mumbai,Contract,Stable Growth,40000,80000,9,4.5,Medium,10-10-2016,9
+9,Healthcare,Physician,North,Delhi,Full-time,Moderate,50000,100000,7.5,4.3,Low,15-11-2016,9
+10,Education,Professor,South,Hyderabad,Full-time,Stable Growth,48000,95000,6.2,4,Low,15-11-2016,9
+11,IT,DevOps Engineer,North,Gurgaon,Full-time,Moderate,50000,100000,9.5,4.6,High,26-01-2017,8
+12,Retail,Sales Executive,West,Pune,Part-time,Stable Growth,24000,45000,5.5,,Medium,03-03-2017,8
+13,Construction,Civil Engineer,East,Kolkata,Full-time,Moderate,37000,75000,7,4.3,Medium,08-04-2016,9
+14,Information Technology,Data Scientist,South,Bangalore,Full-Time,High,1200000,2500000,9,5,High,14-05-2017,8
+15,Information Technology,Data Analyst,West,Mumbai,Full-Time,High,600000,1200000,8,4,High,19-06-2018,7
+16,Information Technology,Blockchain Engineer,North,Delhi,Full-Time,High,1000000,,9,5,High,25-07-2019,6
+17,Design & UX,UX Designer,South,Chennai,Full-Time,Stable Growth,800000,1500000,8,4,High,30-08-2020,5
+18,Information Technology,Cyber Security Engineer,South,Hyderabad,Full-Time,High,1000000,1800000,9,5,High,05-10-2017,8
+19,Information Technology,Cloud Developer,South,Bangalore,Full-Time,High,1200000,2200000,9,5,High,10-11-2021,4
+20,Information Technology,DevOps Engineer,North,Gurgaon,Full-Time,Stable Growth,1000000,2000000,8,4,High,16-12-2022,2
+21,Marketing,Digital Marketing Specialist,West,Mumbai,Full-Time,High Demand,,1200000,8,4,High,21-01-2018,7
+22,Management,Project Manager,North,Delhi,Full-Time,High,1200000,2400000,8,4,High,26-02-2023,2
+23,Management,Product Manager,South,Hyderabad,Full-Time,High,1500000,3000000,9,5,High,03-04-2024,1
+24,Information Technology,Software Developer,South,Bangalore,Full-Time,High,800000,1600000,8,4,High,09-05-2018,7
+25,Finance,Financial Analyst,West,Mumbai,Contract,Moderate,500000,1000000,,4,Medium,14-06-2025,0
+26,Human Resources,HR Manager,North,Delhi,Full-Time,High,900000,1800000,8,4,High,20-07-2025,0
+27,Marketing,Content Writer,West,Pune,Part-Time,Moderate,250000,600000,6,3,High,25-08-2016,9
+28,Healthcare,Medical Coder,North,Gurugram,Contract,Stable Demand,350000,700000,7,3,Medium,30-09-2016,9
+29,Design & UX,Graphic Designer,South,Chennai,Part-Time,High Demand,300000,700000,7,4,High,05-11-2017,8
+30,Information Technology,AI/ML Engineer,South,Bangalore,Full-Time,High,1400000,2800000,9,5,High,11-12-2018,
+31,Information Technology,Database Administrator,North,Delhi,Full-Time,High,1000000,2000000,8,4,High,16-01-2019,6
+32,Marketing,SEO Specialist,West,Mumbai,Contract,Moderate,400000,800000,7,3,Medium,21-02-2020,5
+33,Information Technology,Web Developer,South,Hyderabad,Part-Time,High,400000,1000000,7,4,High,29-03-2021,
+34,Healthcare,Nursing Staff,West,Pune,Full-Time,High,350000,800000,8,4,High,04-05-2022,3
+35,Education,Online Tutor,North,Delhi,Part-Time,Moderate,150000,400000,6,3,High,09-06-2023,2
+36,Information Technology,Network Engineer,South,Bangalore,Full-Time,High,800000,1600000,,4,High,15-07-2024,1
+37,Management,Business Analyst,North,Gurugram,Contract,High,700000,1400000,8,4,Medium,20-08-2025,0
+38,Finance,Investment Analyst,West,Mumbai,Full-Time,High,1200000,2400000,9,5,High,25-09-2016,9
+39,Marketing,Social Media Manager,South,Chennai,Part-Time,Moderate,350000,800000,7,4,High,31-10-2017,8
+40,Design & UX,UI Designer,South,Bangalore,Full-Time,High,700000,1500000,8,4,High,06-12-2018,7
+41,Information Technology,IT Support Engineer,West,Pune,Full-Time,High,500000,1000000,7,4,High,11-01-2019,6
+42,Healthcare,Pharmacist,North,Delhi,Full-Time,Moderate,400000,900000,7,4,High,16-02-2020,5
+43,Information Technology,Mobile App Developer,South,Hyderabad,Full-Time,High,800000,1600000,8,5,High,23-03-2021,4
+44,Marketing,Email Marketing Specialist,West,Mumbai,Contract,Stable Growth,300000,600000,7,3,Medium,28-04-2022,3
+45,Information Technology,Frontend Developer,South,Bangalore,Part-Time,High,400000,1000000,7,4,High,03-06-2023,2
+46,Finance,Accountant,West,Pune,Full-Time,High,500000,1200000,8,4,High,09-07-2024,1
+47,Management,Operations Manager,North,Delhi,Full-Time,High,1000000,2200000,8,4,High,14-08-2016,9
+48,Information Technology,Backend Developer,South,Chennai,Full-Time,High,800000,1600000,8,4,High,19-09-2016,9
+49,Healthcare,Laboratory Technician,East,Kolkata,Contract,Moderate,250000,600000,6,3,Medium,25-10-2017,8
+50,Education,Instructional Designer,North,Gurugram,Part-Time,Stable Growth,300000,600000,7,4,High,30-11-2018,7
+51,Marketing,Brand Manager,West,Mumbai,Full-Time,High,1000000,2000000,8,4,High,05-01-2021,4
+52,Information Technology,QA Engineer,South,Bangalore,Full-Time,High,600000,1200000,8,4,High,10-02-2021,4
+53,Design & UX,Motion Graphics Designer,South,Hyderabad,Contract,Moderate,350000,700000,7,4,Medium,18-03-2019,6
+54,Information Technology,Full Stack Developer,South,Chennai,Full-Time,High,1000000,2000000,9,5,High,23-04-2020,5
+55,Marketing,Content Strategist,West,Pune,Part-Time,Stable Growth,350000,,7,4,High,29-05-2021,4
+56,Finance,Tax Consultant,North,Delhi,Full-Time,High,500000,1200000,8,4,High,04-07-2022,3
+57,Information Technology,Security Analyst,South,Bangalore,Contract,High,600000,1200000,8,4,Medium,09-08-2023,2
+58,Management,Supply Chain Manager,West,Mumbai,Full-Time,High,1200000,,8,4,High,14-09-2024,1
+59,Healthcare,Physiotherapist,North,Gurugram,Part-Time,Moderate,250000,500000,6,3,High,20-10-2021,4
+60,Information Technology,AI Trainer,South,Hyderabad,Full-Time,High,1000000,2000000,9,5,High,25-11-2023,2
+61,Marketing,Market Research Analyst,West,Pune,Contract,Stable Growth,400000,800000,7,4,Medium,31-12-2025,0
+62,Design & UX,Illustrator,South,Bangalore,Part-Time,Moderate,250000,600000,6,3,High,05-02-2022,3
+63,Information Technology,IT Consultant,South,Chennai,Full-Time,High,1200000,2400000,8,4,High,13-03-2022,3
+64,Finance,Business Consultant,West,Mumbai,Contract,Stable Growth,500000,1200000,8,4,Medium,18-04-2022,3
+65,Healthcare,Nurse,South,Bangalore,Full-Time,High,350000,800000,8,4,High,24-05-2025,0
+66,Finance,Financial Analyst,West,Mumbai,Contract,Moderate,500000,1000000,7,4,Medium,29-06-2024,1
+67,Marketing,Content Writer,South,Chennai,Part-Time,Moderate,,600000,6,3,High,04-08-2023,2
+68,Education,Online Tutor,North,Delhi,Part-Time,Moderate,150000,400000,6,3,High,09-09-2022,3
+69,Design & UX,UX Designer,South,Bangalore,Full-Time,Stable Growth,800000,1500000,8,4,High,15-10-2022,3
+70,Construction,Civil Engineer,East,Kolkata,Full-Time,Moderate,900000,1800000,8,4,High,20-11-2021,4
+71,Science,Biochemist,North,Delhi,Full-Time,Moderate,950000,1200000,7,4,Medium,26-12-2020,4
+72,Legal,Corporate Lawyer,North,Gurugram,Contract,High,1000000,2000000,8,5,Medium,31-01-2019,6
+73,Healthcare,Pharmacist,South,Hyderabad,Part-Time,Moderate,400000,900000,7,4,High,08-03-2023,2
+74,Operations,Supply Chain Manager,West,Pune,Full-Time,High,1200000,2400000,8,4,High,13-04-2023,2
+75,Information Technology,AI/ML Engineer,South,Bangalore,Full-Time,High,1400000,2800000,9,5,High,19-05-2018,7
+76,Hospitality,Hotel Manager,South,Chennai,Full-Time,High,800000,1800000,7,4,High,24-06-2018,7
+77,Sales,Sales Executive,West,Mumbai,Part-Time,Moderate,300000,700000,6,4,High,30-07-2017,8
+78,Marketing,Social Media Manager,West,Pune,Contract,Stable Growth,350000,800000,7,4,Medium,04-09-2025,0
+79,Healthcare,Physiotherapist,North,Gurugram,Full-Time,Moderate,250000,500000,6,3,High,10-10-2024,1
+80,Engineering,Mechanical Engineer,South,Hyderabad,Full-Time,High,900000,1600000,8,4,High,15-11-2023,2
+81,Finance,Accountant,West,Pune,Full-Time,High,500000,1200000,8,4,High,21-12-2022,2
+82,IT Support,Help Desk Technician,South,Bangalore,Part-Time,Moderate,350000,700000,6,3,Medium,26-01-2024,1
+83,Legal,Paralegal,North,Delhi,Contract,Moderate,300000,600000,7,3,Medium,02-03-2016,9
+84,Energy,Petroleum Engineer,South,Hyderabad,Full-Time,High,600000,1200000,8,4,High,07-04-2017,8
+85,Education,School Teacher,North,Delhi,Full-Time,Stable Growth,250000,600000,7,3.8,High,13-05-2020,5
+86,Finance,Investment Banker,West,Mumbai,Full-Time,High,1200000,2500000,9,5,High,18-06-2024,1
+87,Healthcare,Surgical Assistant,South,Chennai,Part-Time,Moderate,350000,700000,7,4,High,24-07-2019,6
+88,IT,Software Tester,South,Bangalore,Full-Time,High,400000,900000,8,4,High,29-08-2022,3
+89,Construction,Project Engineer,East,Kolkata,Full-Time,Moderate,500000,1200000,7,4,Medium,04-10-2018,7
+90,Design & UX,Product Designer,South,Hyderabad,Full-Time,Stable Growth,700000,1500000,8,4,High,09-11-2025,0
+91,Marketing,PR Specialist,West,Pune,Full-Time,Moderate,400000,800000,7,4,High,15-12-2025,0
+92,Finance,Compliance Officer,North,Gurugram,Contract,High,600000,1200000,8,4,Medium,20-01-2016,9
+93,Healthcare,Dietitian,South,Chennai,Part-Time,Moderate,300000,600000,6,3,High,25-02-2017,8
+94,Information Technology,System Analyst,South,Bangalore,Full-Time,High,800000,1600000,8,4,High,02-04-2018,7
+95,Education,Academic Coordinator,North,Delhi,Full-Time,Stable Growth,400000,800000,7,4,High,08-05-2023,2
+96,Sales,Key Account Manager,West,Mumbai,Full-Time,High,,1400000,8,4,High,13-06-2025,0
+97,IT,Cloud Engineer,South,Hyderabad,Full-Time,High,900000,1800000,9,5,High,19-07-2024,
+98,Marketing,Advertising Manager,West,Pune,Full-Time,Moderate,600000,1200000,8,4,High,24-08-2018,7
+99,Construction,Site Manager,East,Kolkata,Full-Time,Stable Growth,700000,1500000,8,,High,29-09-2017,8
+100,Engineering,Electrical Engineer,South,Bangalore,Full-Time,High,800000,1600000,8,4,High,04-11-2024,1
